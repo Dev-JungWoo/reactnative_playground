@@ -1,4 +1,4 @@
-package com.playground;
+package com.reactnative_playground;
 
 import android.app.Application;
 
